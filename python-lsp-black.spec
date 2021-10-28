@@ -4,7 +4,7 @@
 #
 Name     : python-lsp-black
 Version  : 1.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/e9/eb/686ceb7142fb4894bdfece7db4a07a39a189f498c45c2580b19b56a22688/python-lsp-black-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e9/eb/686ceb7142fb4894bdfece7db4a07a39a189f498c45c2580b19b56a22688/python-lsp-black-1.0.0.tar.gz
 Summary  : Black plugin for the Python LSP Server
