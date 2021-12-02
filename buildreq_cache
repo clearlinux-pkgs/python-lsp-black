@@ -1,0 +1,4 @@
+1.0.1
+pypi(black)
+pypi(python_lsp_server)
+pypi(toml)
